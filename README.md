@@ -3,7 +3,7 @@
 
 This repository contains input data, the results, and the code to replicate our findings, for the study _Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish_. The paper has been sent to the Journal of Quantitative Linguistics, but its pre-print version can be found here: [https://arxiv.org/abs/2104.06324](https://arxiv.org/abs/2104.06324).
 
-**Eder, M. and Górski, R. L.** 
+**Eder, M. and Górski, R. L.** (2022). _Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish_
 
 The repository has the following structure:
 
