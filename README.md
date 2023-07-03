@@ -1,9 +1,9 @@
 
 # Language change and Piotrowski’s law
 
-This repository contains input data, the results, and the code to replicate our findings, for the study _Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish_. The paper has been sent to the Journal of Quantitative Linguistics, but its pre-print version can be found here: [https://arxiv.org/abs/2104.06324](https://arxiv.org/abs/2104.06324).
+This repository contains input data, the results, and the code to replicate our findings, for the study _Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish_. The paper has been published in Journal of Quantitative Linguistics, and its arXiv pre-print version can be found here: [https://arxiv.org/abs/2104.06324](https://arxiv.org/abs/2104.06324).
 
-**Eder, M. and Górski, R. L.** (2022). _Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish_
+**Górski, R. L. and Eder, M.** (2023). Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish, _Journal of Quantitative Linguistics_ **30**(1): 125–151.
 
 The repository has the following structure:
 
